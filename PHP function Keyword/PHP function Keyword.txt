@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+function hello($a) {
+  return "Hello $a!";
+}
+
+echo hello("World");
+?>
+
+</body>
+</html>
+
+
+
+
+
+
+
+Hello World!
